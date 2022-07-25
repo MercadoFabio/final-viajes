@@ -1,0 +1,23 @@
+E:\Facu\2do Semestre\Programacion II\FinalProg\TUP_ProgI_ExaFi_Viajes\ViajesFinal\bin\Debug\ViajesFinal.exe.config
+E:\Facu\2do Semestre\Programacion II\FinalProg\TUP_ProgI_ExaFi_Viajes\ViajesFinal\bin\Debug\ViajesFinal.exe
+E:\Facu\2do Semestre\Programacion II\FinalProg\TUP_ProgI_ExaFi_Viajes\ViajesFinal\bin\Debug\ViajesFinal.pdb
+E:\Facu\2do Semestre\Programacion II\FinalProg\TUP_ProgI_ExaFi_Viajes\ViajesFinal\obj\Debug\ViajesFinal.csproj.AssemblyReference.cache
+E:\Facu\2do Semestre\Programacion II\FinalProg\TUP_ProgI_ExaFi_Viajes\ViajesFinal\obj\Debug\ViajesFinal.frmViajes.resources
+E:\Facu\2do Semestre\Programacion II\FinalProg\TUP_ProgI_ExaFi_Viajes\ViajesFinal\obj\Debug\ViajesFinal.Properties.Resources.resources
+E:\Facu\2do Semestre\Programacion II\FinalProg\TUP_ProgI_ExaFi_Viajes\ViajesFinal\obj\Debug\ViajesFinal.csproj.GenerateResource.cache
+E:\Facu\2do Semestre\Programacion II\FinalProg\TUP_ProgI_ExaFi_Viajes\ViajesFinal\obj\Debug\ViajesFinal.csproj.CoreCompileInputs.cache
+E:\Facu\2do Semestre\Programacion II\FinalProg\TUP_ProgI_ExaFi_Viajes\ViajesFinal\obj\Debug\ViajesFinal.exe
+E:\Facu\2do Semestre\Programacion II\FinalProg\TUP_ProgI_ExaFi_Viajes\ViajesFinal\obj\Debug\ViajesFinal.pdb
+E:\Facu\2do Semestre\Programacion II\FinalProg\TUP_ProgI_ExaFi_Viajes\ViajesFinal\obj\Debug\ViajesFinal.Forms.Principal.resources
+C:\Users\Administrador\Desktop\TUP_ProgI_ExaFi_Viajes\ViajesFinal\bin\Debug\ViajesFinal.exe.config
+C:\Users\Administrador\Desktop\TUP_ProgI_ExaFi_Viajes\ViajesFinal\bin\Debug\ViajesFinal.exe
+C:\Users\Administrador\Desktop\TUP_ProgI_ExaFi_Viajes\ViajesFinal\bin\Debug\ViajesFinal.pdb
+C:\Users\Administrador\Desktop\TUP_ProgI_ExaFi_Viajes\ViajesFinal\obj\Debug\ViajesFinal.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\TUP_ProgI_ExaFi_Viajes\ViajesFinal\obj\Debug\ViajesFinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrador\Desktop\TUP_ProgI_ExaFi_Viajes\ViajesFinal\obj\Debug\ViajesFinal.frmViajes.resources
+C:\Users\Administrador\Desktop\TUP_ProgI_ExaFi_Viajes\ViajesFinal\obj\Debug\ViajesFinal.Forms.Principal.resources
+C:\Users\Administrador\Desktop\TUP_ProgI_ExaFi_Viajes\ViajesFinal\obj\Debug\ViajesFinal.Properties.Resources.resources
+C:\Users\Administrador\Desktop\TUP_ProgI_ExaFi_Viajes\ViajesFinal\obj\Debug\ViajesFinal.csproj.GenerateResource.cache
+C:\Users\Administrador\Desktop\TUP_ProgI_ExaFi_Viajes\ViajesFinal\obj\Debug\ViajesFinal.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\TUP_ProgI_ExaFi_Viajes\ViajesFinal\obj\Debug\ViajesFinal.exe
+C:\Users\Administrador\Desktop\TUP_ProgI_ExaFi_Viajes\ViajesFinal\obj\Debug\ViajesFinal.pdb
